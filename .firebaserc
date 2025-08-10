@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "simple-firebase-auth-176a3"
-  }
+    "default": "bite-share-mimrpq"
+  },
+  "targets": {},
+  "etags": {}
 }
